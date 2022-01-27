@@ -3,25 +3,25 @@
         "name": "Bolay",
         "location": "Boca Raton FL",
         "type": "Healthy American",
-        "Price": "$$"
+        "price": "$$"
     },
     {
         "name": "McDonalds",
         "location": "Boca Raton FL",
         "type": "American Garbage",
-        "Price": "$"
+        "price": "$"
     },
     {
         "name": "3 Natives",
         "location": "Boca Raton FL",
         "type": "Healthy American",
-        "Price": "$$"
+        "price": "$$"
     },
     {
         "name": "Table 26",
         "location": "West Palm Beach FL",
         "type": "Americano",
-        "Price": "$$$$"
+        "price": "$$$$"
     }
     
 ]
